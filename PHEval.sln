@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PHEval", "PHEval\PHEval.csproj", "{0CA70CD2-B109-4A8D-88A2-297CED76AA2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PHEval.Test", "PHEval.Test\PHEval.Test.csproj", "{F52ACFD7-8140-47A3-B7C3-EAFBC3F9875D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CA70CD2-B109-4A8D-88A2-297CED76AA2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CA70CD2-B109-4A8D-88A2-297CED76AA2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CA70CD2-B109-4A8D-88A2-297CED76AA2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CA70CD2-B109-4A8D-88A2-297CED76AA2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F52ACFD7-8140-47A3-B7C3-EAFBC3F9875D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F52ACFD7-8140-47A3-B7C3-EAFBC3F9875D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F52ACFD7-8140-47A3-B7C3-EAFBC3F9875D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F52ACFD7-8140-47A3-B7C3-EAFBC3F9875D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
